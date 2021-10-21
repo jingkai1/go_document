@@ -1,0 +1,6 @@
+[book]
+authors = ["jk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "go"
